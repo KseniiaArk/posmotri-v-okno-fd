@@ -93,7 +93,7 @@ ol {
   line-height: 100%;
   letter-spacing: 0%;
   margin-top: 3px;
-  margin-bottom: 7px;
+  margin-bottom: 8.34px;
 }
 
 .search-form__label {
@@ -120,7 +120,6 @@ ol {
 }
 
 .search-form__textfield {
-  margin-top: 1.34px;
   width: 225px;
   font-family: inherit;
   font-weight: 400;
